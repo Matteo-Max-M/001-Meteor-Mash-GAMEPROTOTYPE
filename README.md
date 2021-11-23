@@ -5,7 +5,7 @@ Take control of a Meteor barreling through space as it collects space dust to in
 
 WARNING: Does not work properly on certain resolutions. Due to this project being made on an extremely old version of Unity, it isn't meant to work with certain settings.
 
-SET TO 
+Play around with the Resolution and Graphics settings to get an ideal playing speed.
 
 Credits:
 
