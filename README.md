@@ -9,7 +9,13 @@ Play around with the Resolution and Graphics settings to get an ideal playing sp
 
 Credits:
 
-Game Concept and Coding: Kevin Wu
-Model Design: DeMarco Scarnegie
-Texturing, Level Design, and Particle Work: Mike Barcroft
-Menu Design, Music Implementation, Level Design, Gameplay + Coding Tweaks: Matthew Mirakaj
+Game Concept and Coding: Kevin
+
+
+Model Design: DeMarco
+
+
+Texturing, Level Design, and Particle Work: Mike
+
+
+Menu Design, Music Implementation, Level Design, Gameplay + Coding Tweaks: Matthew
